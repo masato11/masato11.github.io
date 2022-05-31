@@ -16,7 +16,7 @@ h1,h2, p {
  }
 
  header .container {
-   width: 400px;
+   width: 500px;
    margin: 0 auto;
    padding:32px 0;
    display: flex;
@@ -51,17 +51,21 @@ header .icon {
 main .container {
   width: 500px;
   margin: 0 auto;
+  padding:32px 0;
+  display: flex;
+  align-items: center;
   }
 main h1 {
   font-size: 24px;
   font-weight: normal;
   text-align: center;
-  padding: 20px 0;
+  padding: 5px 0;
 }
 
 main h2 {
   font-size: 18px;
   font-weight: normal;
+  padding: 1px 0;
 }
 
 
