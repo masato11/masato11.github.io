@@ -16,7 +16,7 @@ h1,h2, p {
  }
 
  header .container {
-   width: 500px;
+   width: 600px;
    margin: 0 auto;
    padding:32px 0;
    display: flex;
