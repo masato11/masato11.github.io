@@ -16,7 +16,7 @@ h1,h2, p {
 }   
 
  header .container {
-   width: 500px;
+   width: 100%;
    margin: 10px auto;
    padding: 12px 0;
    display: flex;
@@ -48,7 +48,7 @@ header .icon {
 }
 
 main .container {
-  width: 500px;
+  width: 450px;
   margin: 10px auto;
   padding: 12px 0;
   display: flex;
